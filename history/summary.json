@@ -167,18 +167,18 @@
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim-foundation",
     "status": "degraded",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 3099,
     "timeDay": 3099,
     "timeWeek": 3099,
     "timeMonth": 3099,
     "timeYear": 3099,
     "dailyMinutesDown": {
-      "2021-01-21": 143
+      "2021-01-21": 195
     }
   },
   {
@@ -330,19 +330,19 @@
     "url": "https://gordonhartman.com/",
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
-    "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 2951,
-    "timeDay": 2951,
-    "timeWeek": 2951,
-    "timeMonth": 2951,
-    "timeYear": 2951,
+    "status": "up",
+    "uptime": "73.44%",
+    "uptimeDay": "73.44%",
+    "uptimeWeek": "73.44%",
+    "uptimeMonth": "73.44%",
+    "uptimeYear": "73.44%",
+    "time": 2248,
+    "timeDay": 2248,
+    "timeWeek": 2248,
+    "timeMonth": 2248,
+    "timeYear": 2248,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 52
     }
   },
   {
@@ -405,18 +405,18 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "example-broken-site",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 143
+      "2021-01-21": 195
     }
   },
   {
@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 143
+      "2021-01-21": 195
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-01-21": 143
+      "2021-01-21": 195
     }
   }
 ]
