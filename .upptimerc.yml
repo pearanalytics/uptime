@@ -1,37 +1,90 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
-
+owner: pearanalytics # Your GitHub username
+repo: uptime # Your GitHub repository name
+assignees: 
+  - vidluther
 # Add your sites here
 sites:
+  - name: PearAnalytics 
+    url: https://pearanalytics.com
+    maxResponseTime: 2000
+  - name: EdgeCombe
+    url: https://edgecombe.com
+  - name: SA Parks Foundation
+    url: https://saparksfoundation.org
+  - name: Sherry Yellin
+    url: https://sherryyellin.com/
+  - name: Site Owl
+    url: https://getsiteowl.com
+  - name: Harrison Davis (The Trial Lawyers)
+    url: https://www.thetriallawyers.com
+  - name: Le Sauce Company
+    url: https://lesaucecompany.com
+  - name: Uvalde Car Wash
+    url: https://uvaldecarwash.com
+    maxResponseTime: 2000
+  - name: Riptide Car Wash
+    url: https://riptideautowashes.com/
+    maxResponseTime: 2000
+  - name: Najim Foundation
+    url: https://najimfoundation.org
+    maxResponseTime: 2000
+  - name: Uvalde Car Wash
+    url: https://uvaldecarwash.com
+    maxResponseTime: 2000
+  - name: Elizabeth Harris
+    url: https://eharrismd.com
+    maxResponseTime: 2000
+  - name: MerchCo
+    url: https://merchcoservices.com
+  - name: Robinson Value Management
+    url: https://robinsonvalue.com
+  - name: VP Racing Fuels
+    url: https://vpracingfuels.com
+    maxResponseTime: 2000
+  - name: COPC
+    url: https://copc.com
+    maxResponseTime: 2000
+  - name: South Texas Guns
+    url: https://southtexasguns.com
+    maxResponseTime: 2000
+  - name: Office Furniture SA
+    url: https://www.officefurnituresa.com
+    maxResponseTime: 2000
+  - name: Hartman Foundation
+    url: https://gordonhartman.com/
+    maxResponseTime: 2000
+  - name: Xenex
+    url: https://xenex.com/
+    maxResponseTime: 2000
+  - name: Pencil for Schools
+    url: https://pencilforschools.org/
+    maxResponseTime: 2000
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
+  - name: Example Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Luther.io
+    url: http://luther.io
+  - name: Gate Test Environment
+    url: https://pearanalytics.wp.gate.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.pearanalytics.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #baseUrl: /uptime
+  name: Uptime Monitor
+  logoUrl: https://pearanalytics.com/wp-content/uploads/2019/04/logo.png
+  introTitle: "Client Uptime Monitor"
+  introMessage: 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: PearAnalytics
+      href: https://pearanalytics.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
