@@ -167,18 +167,18 @@
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim-foundation",
     "status": "degraded",
-    "uptime": "19.83%",
-    "uptimeDay": "19.83%",
-    "uptimeWeek": "19.83%",
-    "uptimeMonth": "19.83%",
-    "uptimeYear": "19.83%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 3099,
     "timeDay": 3099,
     "timeWeek": 3099,
     "timeMonth": 3099,
     "timeYear": 3099,
     "dailyMinutesDown": {
-      "2021-01-21": 1
+      "2021-01-21": 143
     }
   },
   {
@@ -330,18 +330,20 @@
     "url": "https://gordonhartman.com/",
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1918,
-    "timeDay": 1918,
-    "timeWeek": 1918,
-    "timeMonth": 1918,
-    "timeYear": 1918,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 2951,
+    "timeDay": 2951,
+    "timeWeek": 2951,
+    "timeMonth": 2951,
+    "timeYear": 2951,
+    "dailyMinutesDown": {
+      "2021-01-21": 0
+    }
   },
   {
     "name": "Xenex",
@@ -403,18 +405,18 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "example-broken-site",
     "status": "down",
-    "uptime": "4.14%",
-    "uptimeDay": "4.14%",
-    "uptimeWeek": "4.14%",
-    "uptimeMonth": "4.14%",
-    "uptimeYear": "4.14%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 143
     }
   },
   {
@@ -423,18 +425,18 @@
     "icon": "https://favicons.githubusercontent.com/luther.io",
     "slug": "luther-io",
     "status": "down",
-    "uptime": "1.73%",
-    "uptimeDay": "1.73%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "1.73%",
-    "uptimeYear": "1.73%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 143
     }
   },
   {
@@ -443,18 +445,18 @@
     "icon": "https://favicons.githubusercontent.com/pearanalytics.wp.gate.com",
     "slug": "gate-test-environment",
     "status": "down",
-    "uptime": "3.06%",
-    "uptimeDay": "3.06%",
-    "uptimeWeek": "3.06%",
-    "uptimeMonth": "3.06%",
-    "uptimeYear": "3.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 453,
     "timeDay": 453,
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-01-21": 0
+      "2021-01-21": 143
     }
   }
 ]
