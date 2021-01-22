@@ -94,19 +94,19 @@
     "url": "https://www.thetriallawyers.com",
     "icon": "https://favicons.githubusercontent.com/www.thetriallawyers.com",
     "slug": "harrison-davis-the-trial-lawyers",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "93.55%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "93.55%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "93.55%",
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2021-01-22": 1
+      "2021-01-22": 39
     }
   },
   {
@@ -180,7 +180,7 @@
     "timeMonth": 3189,
     "timeYear": 3189,
     "dailyMinutesDown": {
-      "2021-01-22": 310,
+      "2021-01-22": 365,
       "2021-01-21": 247
     }
   },
@@ -261,19 +261,19 @@
     "url": "https://vpracingfuels.com",
     "icon": "https://favicons.githubusercontent.com/vpracingfuels.com",
     "slug": "vp-racing-fuels",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "93.82%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "93.82%",
+    "time": 312,
+    "timeDay": 312,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-01-22": 0
+      "2021-01-22": 38
     }
   },
   {
@@ -336,11 +336,11 @@
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
     "status": "up",
-    "uptime": "90.71%",
-    "uptimeDay": "90.71%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "90.71%",
-    "uptimeYear": "90.71%",
+    "uptime": "91.54%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "91.54%",
     "time": 1911,
     "timeDay": 1911,
     "timeWeek": 1911,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-22": 310,
+      "2021-01-22": 365,
       "2021-01-21": 247
     }
   },
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-22": 310,
+      "2021-01-22": 365,
       "2021-01-21": 247
     }
   },
@@ -463,7 +463,7 @@
     "timeMonth": 394,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2021-01-22": 311,
+      "2021-01-22": 365,
       "2021-01-21": 247
     }
   }
