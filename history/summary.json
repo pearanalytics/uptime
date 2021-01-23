@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/www.thetriallawyers.com",
     "slug": "harrison-davis-the-trial-lawyers",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.89%",
     "uptimeDay": "97.26%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
     "time": 343,
     "timeDay": 361,
     "timeWeek": 343,
@@ -180,7 +180,7 @@
     "timeMonth": 3337,
     "timeYear": 3337,
     "dailyMinutesDown": {
-      "2021-01-23": 113,
+      "2021-01-23": 181,
       "2021-01-22": 1440,
       "2021-01-21": 247
     }
@@ -263,11 +263,11 @@
     "icon": "https://favicons.githubusercontent.com/vpracingfuels.com",
     "slug": "vp-racing-fuels",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.98%",
     "uptimeDay": "97.37%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 317,
     "timeDay": 293,
     "timeWeek": 317,
@@ -336,17 +336,17 @@
     "url": "https://gordonhartman.com/",
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
-    "status": "up",
-    "uptime": "90.10%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "90.10%",
-    "time": 1963,
-    "timeDay": 2005,
-    "timeWeek": 1963,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "status": "degraded",
+    "uptime": "90.45%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
+    "time": 2027,
+    "timeDay": 2105,
+    "timeWeek": 2027,
+    "timeMonth": 2027,
+    "timeYear": 2027,
     "dailyMinutesDown": {
       "2021-01-23": 107,
       "2021-01-22": 19,
@@ -424,7 +424,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-23": 113,
+      "2021-01-23": 181,
       "2021-01-22": 1440,
       "2021-01-21": 247
     }
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-23": 113,
+      "2021-01-23": 181,
       "2021-01-22": 1440,
       "2021-01-21": 247
     }
@@ -468,7 +468,7 @@
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2021-01-23": 113,
+      "2021-01-23": 181,
       "2021-01-22": 1440,
       "2021-01-21": 247
     }
