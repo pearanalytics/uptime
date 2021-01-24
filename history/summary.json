@@ -180,7 +180,7 @@
     "timeMonth": 3347,
     "timeYear": 3347,
     "dailyMinutesDown": {
-      "2021-01-24": 77,
+      "2021-01-24": 82,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 247
@@ -339,18 +339,18 @@
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
     "status": "degraded",
-    "uptime": "88.81%",
+    "uptime": "88.67%",
     "uptimeDay": "84.99%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "88.81%",
-    "uptimeYear": "88.81%",
+    "uptimeWeek": "88.67%",
+    "uptimeMonth": "88.67%",
+    "uptimeYear": "88.67%",
     "time": 2094,
     "timeDay": 2201,
     "timeWeek": 2094,
     "timeMonth": 2094,
     "timeYear": 2094,
     "dailyMinutesDown": {
-      "2021-01-24": 0,
+      "2021-01-24": 5,
       "2021-01-23": 287,
       "2021-01-22": 19,
       "2021-01-21": 52
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-24": 77,
+      "2021-01-24": 82,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 247
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-24": 77,
+      "2021-01-24": 82,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 247
@@ -473,7 +473,7 @@
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2021-01-24": 77,
+      "2021-01-24": 82,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 247
