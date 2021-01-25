@@ -78,6 +78,11 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /uptime
   name: Uptime Monitor
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   logoUrl: https://pearanalytics.com/wp-content/uploads/2019/04/logo.png
   introTitle: "Client Uptime Monitor"
   introMessage: 
@@ -88,6 +93,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: PearAnalytics
       href: https://pearanalytics.com/
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
