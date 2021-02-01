@@ -68,6 +68,10 @@ sites:
     url: http://luther.io
   - name: Gate Test Environment
     url: https://pearanalytics.wp.gate.com/
+  - name: Hot Shot Final Mile
+    url: https://hotshotfinalmile.com/
+  - name: Tuya Tech
+    url: https://tuyatech.com/
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
@@ -79,8 +83,6 @@ status-website:
   #baseUrl: /uptime
   name: Uptime Monitor
   metaTags:
-    - name: "color-scheme"
-      content: "dark light"
     - name: "robots"
       content: "noindex"
   logoUrl: https://pearanalytics.com/wp-content/uploads/2019/04/logo.png
