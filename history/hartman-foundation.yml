@@ -1,7 +1,7 @@
 url: https://gordonhartman.com/
-status: up
+status: degraded
 code: 200
-responseTime: 1413
-lastUpdated: 2021-02-10T19:47:20.017Z
+responseTime: 3167
+lastUpdated: 2021-02-10T20:10:14.222Z
 startTime: Thu Jan 21 2021 19:52:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
