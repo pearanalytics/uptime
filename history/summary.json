@@ -185,7 +185,7 @@
     "timeMonth": 4018,
     "timeYear": 4018,
     "dailyMinutesDown": {
-      "2021-02-14": 684,
+      "2021-02-14": 693,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
       "2021-02-11": 1440,
@@ -374,7 +374,7 @@
     "uptimeYear": "88.21%",
     "time": 2302,
     "timeDay": 2198,
-    "timeWeek": 2303,
+    "timeWeek": 2307,
     "timeMonth": 2302,
     "timeYear": 2302,
     "dailyMinutesDown": {
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-14": 684,
+      "2021-02-14": 694,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
       "2021-02-11": 1440,
@@ -507,7 +507,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-14": 684,
+      "2021-02-14": 694,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
       "2021-02-11": 1440,
@@ -567,9 +567,9 @@
     "url": "https://hotshotfinalmile.com/",
     "icon": "https://favicons.githubusercontent.com/hotshotfinalmile.com",
     "slug": "hot-shot-final-mile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -578,7 +578,9 @@
     "timeWeek": 303,
     "timeMonth": 299,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-14": 0
+    }
   },
   {
     "name": "Tuya Tech",
