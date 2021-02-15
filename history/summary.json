@@ -368,18 +368,18 @@
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
     "status": "up",
-    "uptime": "89.04%",
-    "uptimeDay": "79.26%",
-    "uptimeWeek": "76.99%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "89.04%",
+    "uptime": "88.96%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "77.07%",
+    "uptimeMonth": "88.96%",
+    "uptimeYear": "88.96%",
     "time": 2315,
     "timeDay": 2454,
     "timeWeek": 2347,
     "timeMonth": 2315,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2021-02-15": 69,
+      "2021-02-15": 61,
       "2021-02-14": 230,
       "2021-02-13": 269,
       "2021-02-12": 386,
@@ -390,7 +390,7 @@
       "2021-02-07": 413,
       "2021-02-06": 480,
       "2021-02-05": 429,
-      "2021-02-04": 203
+      "2021-02-04": 239
     }
   },
   {
