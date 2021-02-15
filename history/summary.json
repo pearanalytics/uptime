@@ -76,19 +76,19 @@
     "url": "https://sherryyellin.com/",
     "icon": "https://favicons.githubusercontent.com/sherryyellin.com",
     "slug": "sherry-yellin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 281,
-    "timeWeek": 293,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 588,
+    "timeDay": 307,
+    "timeWeek": 303,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2021-02-15": 0
+      "2021-02-15": 7
     }
   },
   {
@@ -441,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-15": 467,
+      "2021-02-15": 474,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
@@ -486,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-15": 467,
+      "2021-02-15": 474,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
