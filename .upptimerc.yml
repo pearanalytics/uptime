@@ -26,9 +26,6 @@ sites:
   - name: Riptide Car Wash
     url: https://riptideautowashes.com/
     maxResponseTime: 2000
-  - name: Najim Foundation
-    url: https://najimfoundation.org
-    maxResponseTime: 2000
   - name: Uvalde Car Wash
     url: https://uvaldecarwash.com
     maxResponseTime: 2000
