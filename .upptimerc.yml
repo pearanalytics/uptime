@@ -53,7 +53,7 @@ sites:
     maxResponseTime: 2000
   - name: Hartman Foundation
     url: https://gordonhartman.com/
-    maxResponseTime: 2000
+    maxResponseTime: 6000
   - name: Xenex
     url: https://xenex.com/
     maxResponseTime: 2000
