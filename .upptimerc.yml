@@ -8,6 +8,8 @@ sites:
   - name: PearAnalytics 
     url: https://pearanalytics.com
     maxResponseTime: 2000
+  - name: Bee Clean Car Wash
+    url: https://beecleanwash.com
   - name: EdgeCombe
     url: https://edgecombe.com
   - name: SA Parks Foundation
