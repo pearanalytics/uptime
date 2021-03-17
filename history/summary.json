@@ -58,36 +58,40 @@
     "url": "https://saparksfoundation.org",
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "sa-parks-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 369,
     "timeDay": 281,
     "timeWeek": 353,
     "timeMonth": 364,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 3
+    }
   },
   {
     "name": "Site Owl",
     "url": "https://getsiteowl.com",
     "icon": "https://favicons.githubusercontent.com/getsiteowl.com",
     "slug": "site-owl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 377,
     "timeWeek": 357,
     "timeMonth": 312,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 2
+    }
   },
   {
     "name": "Harrison Davis (The Trial Lawyers)",
@@ -121,10 +125,10 @@
     "url": "https://lesaucecompany.com",
     "icon": "https://favicons.githubusercontent.com/lesaucecompany.com",
     "slug": "le-sauce-company",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
@@ -132,17 +136,19 @@
     "timeWeek": 336,
     "timeMonth": 308,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 2
+    }
   },
   {
     "name": "Uvalde Car Wash",
     "url": "https://uvaldecarwash.com",
     "icon": "https://favicons.githubusercontent.com/uvaldecarwash.com",
     "slug": "uvalde-car-wash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
@@ -150,17 +156,19 @@
     "timeWeek": 202,
     "timeMonth": 182,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Riptide Car Wash",
     "url": "https://riptideautowashes.com/",
     "icon": "https://favicons.githubusercontent.com/riptideautowashes.com",
     "slug": "riptide-car-wash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
@@ -168,17 +176,19 @@
     "timeWeek": 319,
     "timeMonth": 286,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Uvalde Car Wash",
     "url": "https://uvaldecarwash.com",
     "icon": "https://favicons.githubusercontent.com/uvaldecarwash.com",
     "slug": "uvalde-car-wash",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
@@ -186,7 +196,9 @@
     "timeWeek": 202,
     "timeMonth": 182,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Elizabeth Harris",
@@ -291,18 +303,18 @@
     "icon": "https://favicons.githubusercontent.com/southtexasguns.com",
     "slug": "south-texas-guns",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.27%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.27%",
     "time": 274,
     "timeDay": 305,
     "timeWeek": 297,
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2021-03-17": 0,
+      "2021-03-17": 42,
       "2021-03-08": 200,
       "2021-03-07": 338
     }
@@ -331,11 +343,11 @@
     "icon": "https://favicons.githubusercontent.com/gordonhartman.com",
     "slug": "hartman-foundation",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.10%",
+    "uptimeYear": "95.11%",
     "time": 2288,
     "timeDay": 1043,
     "timeWeek": 1593,
@@ -427,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-17": 1020,
+      "2021-03-17": 1061,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
@@ -502,7 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-17": 1020,
+      "2021-03-17": 1061,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
@@ -568,7 +580,7 @@
     "status": "up",
     "uptime": "85.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.00%",
+    "uptimeWeek": "71.42%",
     "uptimeMonth": "92.90%",
     "uptimeYear": "85.38%",
     "time": 540,
