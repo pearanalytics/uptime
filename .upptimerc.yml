@@ -8,8 +8,6 @@ sites:
   - name: PearAnalytics 
     url: https://pearanalytics.com
     maxResponseTime: 2000
-  - name: Bee Clean Car Wash
-    url: https://beecleanwash.com
   - name: EdgeCombe
     url: https://edgecombe.com
   - name: SA Parks Foundation
@@ -20,15 +18,6 @@ sites:
     url: https://www.thetriallawyers.com
   - name: Le Sauce Company
     url: https://lesaucecompany.com
-  - name: Uvalde Car Wash
-    url: https://uvaldecarwash.com
-    maxResponseTime: 2000
-  - name: Riptide Car Wash
-    url: https://riptideautowashes.com/
-    maxResponseTime: 2000
-  - name: Uvalde Car Wash
-    url: https://uvaldecarwash.com
-    maxResponseTime: 2000
   - name: Elizabeth Harris
     url: https://eharrismd.com
     maxResponseTime: 2000
@@ -69,6 +58,8 @@ sites:
     url: https://hotshotfinalmile.com/
   - name: Tuya Tech
     url: https://tuyatech.com/
+  - name: American Fence and Deck
+    url: https://americanfencedeck.com
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
