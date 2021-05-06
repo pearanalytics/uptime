@@ -132,19 +132,19 @@
     "url": "https://eharrismd.com",
     "icon": "https://favicons.githubusercontent.com/eharrismd.com",
     "slug": "elizabeth-harris",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 857,
-    "timeWeek": 711,
-    "timeMonth": 688,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 644,
+    "timeDay": 834,
+    "timeWeek": 724,
+    "timeMonth": 692,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 38
     }
   },
   {
@@ -373,7 +373,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 724,
+      "2021-05-06": 762,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-06": 724,
+      "2021-05-06": 762,
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
@@ -614,7 +614,7 @@
     "status": "up",
     "uptime": "87.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "84.49%",
     "uptimeYear": "87.83%",
     "time": 573,
