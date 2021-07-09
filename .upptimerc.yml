@@ -55,6 +55,8 @@ sites:
     url: https://tuyatech.com/
   - name: American Fence and Deck
     url: https://www.americanfencedeck.com
+  - name: Key Ideas
+    url: https://keyideas.net
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
