@@ -654,7 +654,7 @@
     "uptime": "81.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.14%",
+    "uptimeMonth": "37.13%",
     "uptimeYear": "81.14%",
     "time": 558,
     "timeDay": 0,
@@ -772,18 +772,18 @@
     "icon": "https://favicons.githubusercontent.com/keyideas.net",
     "slug": "key-ideas",
     "status": "down",
-    "uptime": "11.06%",
-    "uptimeDay": "11.06%",
-    "uptimeWeek": "11.06%",
-    "uptimeMonth": "11.06%",
-    "uptimeYear": "11.06%",
+    "uptime": "5.19%",
+    "uptimeDay": "5.19%",
+    "uptimeWeek": "5.19%",
+    "uptimeMonth": "5.19%",
+    "uptimeYear": "5.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-09": 0
+      "2021-07-09": 1
     }
   }
 ]
