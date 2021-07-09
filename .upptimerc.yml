@@ -29,9 +29,6 @@ sites:
   - name: COPC
     url: https://copc.com
     maxResponseTime: 2000
-  - name: South Texas Guns
-    url: https://southtexasguns.com
-    maxResponseTime: 2000
   - name: Office Furniture SA
     url: https://www.officefurnituresa.com
     maxResponseTime: 2000
@@ -57,7 +54,7 @@ sites:
   - name: Tuya Tech
     url: https://tuyatech.com/
   - name: American Fence and Deck
-    url: https://americanfencedeck.com
+    url: https://www.americanfencedeck.com
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
