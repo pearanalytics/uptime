@@ -57,6 +57,8 @@ sites:
     url: https://www.americanfencedeck.com
   - name: Key Ideas
     url: https://keyideas.net
+  - name: Haven for Hope
+    url: https://www.havenforhope.org
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
