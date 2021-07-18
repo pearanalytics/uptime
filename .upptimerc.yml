@@ -5,61 +5,8 @@ assignees:
   - vidluther
 # Add your sites here
 sites:
-  - name: PearAnalytics 
-    url: https://pearanalytics.com
-    maxResponseTime: 2000
-  - name: EdgeCombe
-    url: https://edgecombe.com
-  - name: SA Parks Foundation
-    url: https://saparksfoundation.org
-  - name: Harrison Davis (The Trial Lawyers)
-    url: https://www.thetriallawyers.com
-  - name: Le Sauce Company
-    url: https://lesaucecompany.com
-  - name: Elizabeth Harris
-    url: https://eharrismd.com
-    maxResponseTime: 2000
-  - name: MerchCo
-    url: https://merchcoservices.com
-  - name: Robinson Value Management
-    url: https://robinsonvalue.com
-  - name: VP Racing Fuels
-    url: https://vpracingfuels.com
-    maxResponseTime: 2000
-  - name: COPC
-    url: https://copc.com
-    maxResponseTime: 2000
-  - name: Office Furniture SA
-    url: https://www.officefurnituresa.com
-    maxResponseTime: 2000
-  - name: Hartman Foundation
-    url: https://gordonhartman.com/
-    maxResponseTime: 6000
-  - name: Xenex
-    url: https://xenex.com/
-    maxResponseTime: 2000
-  - name: Pencil for Schools
-    url: https://pencilforschools.org/
-    maxResponseTime: 2000
-  - name: Google
-    url: https://www.google.com
-  - name: Example Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Luther.io
-    url: http://luther.io
-  - name: Gate Test Environment
-    url: https://pearanalytics.wp.gate.com/
-  - name: Hot Shot Final Mile
-    url: https://hotshotfinalmile.com/
-  - name: Tuya Tech
-    url: https://tuyatech.com/
-  - name: American Fence and Deck
-    url: https://www.americanfencedeck.com
-  - name: Key Ideas
-    url: https://keyideas.net
-  - name: Haven for Hope
-    url: https://www.havenforhope.org
-
+  name: PearAnalytics
+  url: https://pearanalytics.com
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
