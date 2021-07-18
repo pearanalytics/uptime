@@ -5,8 +5,8 @@ assignees:
   - vidluther
 # Add your sites here
 sites:
-  name: PearAnalytics
-  url: https://pearanalytics.com
+  - name: PearAnalytics
+    url: https://pearanalytics.com
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
