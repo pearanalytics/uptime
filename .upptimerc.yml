@@ -5,62 +5,164 @@ assignees:
   - vidluther
 # Add your sites here
 sites:
-  - name: PearAnalytics
+  - name: wellnesstech
+    url: https://wellnesstech.wpengine.com
+  - name: pearanalytics
     url: https://pearanalytics.com
+  - name: fladvisors
+    url: https://fladvisors.com
+  - name: copc
+    url: https://copc.wpengine.com
+  - name: universalbb
+    url: https://universalbookbindery.com
+  - name: concussionguy
+    url: https://concussionguy.com
+  - name: copccopy
+    url: https://copccopy.wpengine.com
+  - name: alamonote
+    url: https://alamonote.wpengine.com
+  - name: shirane
+    url: https://shiranefoundation.org
+  - name: intranetpear
+    url: https://intranetpear.wpengine.com
+  - name: aceschoolorg
+    url: https://aceschoolorg.wpengine.com
+  - name: eharris
+    url: https://eharris.wpengine.com
+  - name: bhrnew
+    url: https://berkshirehairremoval.com
+  - name: findingstax
+    url: https://findingstax.wpengine.com
+  - name: acadian
+    url: https://acadianlogistics.com
+  - name: beaconunited2
+    url: https://beacon-united.com
+  - name: apgroup
+    url: https://apgroup.wpengine.com
+  - name: xmasshowcase
+    url: https://christmasshowcase.com
+  - name: strauch
+    url: https://www.strauchlaw.com
+  - name: copcnew
+    url: https://www.copc.com
+  - name: depexp
+    url: https://dependableexpress.com
+  - name: amazingair
+    url: https://amazingairsolutions.co
+  - name: firsttexan
+    url: https://firsttexanrealty.com
+  - name: najim
+    url: https://najimfoundation.org
+  - name: contegoim
+    url: https://contegoim.com
+  - name: alamomineral
+    url: https://alamomineralbuyers.com
+  - name: alamohomebuyer
+    url: https://alamohomebuyers.com
+  - name: sanotebuyer
+    url: https://sanotebuyer.wpengine.com
+  - name: sahomebuyer
+    url: https://sahomebuyer.wpengine.com
+  - name: fascinationsp
+    url: https://fascinationstreetpod.com
+  - name: alamobuyers
+    url: https://alamobuyers.com
+  - name: tluadm
+    url: https://tluadm.wpengine.com
+  - name: homworks
+    url: https://homworks.wpengine.com
+  - name: stssh
+    url: https://saroboticsurgery.com
+  - name: saparksfound
+    url: https://saparksfoundation.org
+  - name: sabuyers
+    url: https://sabuyers.wpengine.com
+  - name: sabuyer
+    url: https://sabuyer.wpengine.com
+  - name: sellmyplace
+    url: https://sellmyplace.wpengine.com
+  - name: sellmynote
+    url: https://sellmynote.com
+  - name: sandlersa
+    url: https://sandlersa.wpengine.com
+  - name: yokelfinancial
+    url: https://yokelfinancial.wpengine.com
+  - name: copcprocure
+    url: https://copcprocure.wpengine.com
+  - name: jsbhs
+    url: https://jsbhs.wpengine.com
+  - name: felixgonzalez2
+    url: https://www.felixgonzalezlaw.com
+  - name: ehrenberg
+    url: https://ehrenberg.wpengine.com
+  - name: eharrisv2
+    url: https://www.eharrismd.com
+  - name: riachueloranch
+    url: https://riachueloranch.com
+  - name: ignitecc
+    url: https://ignitecommunity.church
+  - name: altitudesa
+    url: https://www.altitudesa.com
+  - name: idpsalientup
+    url: https://indirectpro.com
+  - name: copcsalientup
+    url: https://copcsalientup.wpengine.com
+  - name: hartmanfound
+    url: https://gordonhartman.com
   - name: hotshotfinal
-    primary_domain: hotshotfinalmile.com
+    url: https://hotshotfinalmile.com
   - name: workatmercho
-    primary_domain: workatmerchco.com
+    url: https://workatmerchco.com
   - name: merchcomain
-    primary_domain: merchcoservices.com
+    url: https://merchcoservices.com
   - name: ibuysa
-    primary_domain: ibuysa.wpengine.com
+    url: https://ibuysa.wpengine.com
   - name: hdnew
-    primary_domain: www.thetriallawyers.com
+    url: https://www.thetriallawyers.com
   - name: tuyatech
-    primary_domain: tuyatech.com
+    url: https://tuyatech.com
   - name: alamofireworks
-    primary_domain: www.alamofireworks.com
+    url: https://www.alamofireworks.com
   - name: beeclean
-    primary_domain: beecleanwash.com
+    url: https://beecleanwash.com
   - name: siteowl
-    primary_domain: siteowl.wpengine.com
+    url: https://siteowl.wpengine.com
   - name: emmajanev1
-    primary_domain: emmajanev1.wpengine.com
+    url: https://emmajanev1.wpengine.com
   - name: robinsonvm
-    primary_domain: www.robinsonvalue.com
+    url: https://www.robinsonvalue.com
   - name: edgecombe
-    primary_domain: edgecombe.com
+    url: https://edgecombe.com
   - name: lesauce
-    primary_domain: lesauce.wpengine.com
+    url: https://lesauce.wpengine.com
   - name: beecleanold
-    primary_domain: beecleanold.wpengine.com
+    url: https://beecleanold.wpengine.com
   - name: mdunnebrands
-    primary_domain: dunnebrands.com
+    url: https://dunnebrands.com
   - name: sacounselors
-    primary_domain: sacounselors.wpengine.com
+    url: https://sacounselors.wpengine.com
   - name: riptidewash
-    primary_domain: riptideautowashes.com
+    url: https://riptideautowashes.com
   - name: officefurnliq
-    primary_domain: www.officefurnituresa.com
+    url: https://www.officefurnituresa.com
   - name: espronceda
-    primary_domain: alamodivorcelawyer.com
+    url: https://alamodivorcelawyer.com
   - name: unrealdigital
-    primary_domain: www.unrealdigitalgroup.com
+    url: https://www.unrealdigitalgroup.com
   - name: npinaction
-    primary_domain: nonprofitsinaction.org
+    url: https://nonprofitsinaction.org
   - name: riptideuvalde
-    primary_domain: uvaldecarwash.com
+    url: https://uvaldecarwash.com
   - name: logopop
-    primary_domain: thelogopop.com
+    url: https://thelogopop.com
   - name: xenexlive
-    primary_domain: xenex.com
+    url: https://xenex.com
   - name: allenlive
-    primary_domain: lumberhardware.com
+    url: https://lumberhardware.com
   - name: strikeforceuv
-    primary_domain: strikeforceuv.com
+    url: https://strikeforceuv.com
   - name: nomaskspatriot
-    primary_domain: nomaskspatriot.wpengine.com
+    url: https://nomaskspatriot.wpengine.com
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
