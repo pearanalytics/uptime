@@ -5,6 +5,8 @@ assignees:
   - vidluther
 # Add your sites here
 sites:
+  - name: Pear Dev Site 
+    url: https://peardev.wpengine.com
   - name: wellnesstech
     url: https://wellnesstech.wpengine.com
   - name: pearanalytics
@@ -25,6 +27,8 @@ sites:
     url: https://shiranefoundation.org
   - name: intranetpear
     url: https://intranetpear.wpengine.com
+    headers: 
+      - Authorization: Basic $AUTH_PEARINTRANET
   - name: aceschoolorg
     url: https://aceschoolorg.wpengine.com
   - name: eharris
