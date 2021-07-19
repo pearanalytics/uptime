@@ -159,8 +159,6 @@ sites:
     url: https://xenex.com
   - name: allenlive
     url: https://lumberhardware.com
-  - name: strikeforceuv
-    url: https://strikeforceuv.com
   - name: nomaskspatriot
     url: https://nomaskspatriot.wpengine.com
 status-page:
