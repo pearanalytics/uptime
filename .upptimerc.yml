@@ -165,6 +165,7 @@ status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
 status-website:
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.pearanalytics.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
