@@ -34,7 +34,7 @@
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-07-19": 991
+      "2021-07-19": 992
     }
   },
   {
@@ -406,7 +406,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 990
+      "2021-07-19": 991
     }
   },
   {
@@ -624,7 +624,7 @@
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-07-19": 990
+      "2021-07-19": 991
     }
   },
   {
@@ -644,7 +644,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 990
+      "2021-07-19": 991
     }
   },
   {
@@ -1114,7 +1114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 989
+      "2021-07-19": 990
     }
   },
   {
@@ -1123,11 +1123,11 @@
     "icon": "https://favicons.githubusercontent.com/siteowl.wpengine.com",
     "slug": "siteowl",
     "status": "up",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 2172,
     "timeDay": 2172,
     "timeWeek": 2172,
