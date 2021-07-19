@@ -7,6 +7,8 @@ assignees:
 sites:
   - name: Pear Dev Site 
     url: https://peardev.wpengine.com
+    headers: 
+      - "Authorization: Basic $AUTH_PEARDEVSITE"
   - name: wellnesstech
     url: https://wellnesstech.wpengine.com
   - name: pearanalytics
