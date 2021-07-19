@@ -30,7 +30,7 @@ sites:
   - name: intranetpear
     url: https://intranetpear.wpengine.com
     headers: 
-      - Authorization: Basic $AUTH_PEARINTRANET
+      - "Authorization: Basic $AUTH_PEARINTRANET"
   - name: aceschoolorg
     url: https://aceschoolorg.wpengine.com
   - name: eharris
