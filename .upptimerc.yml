@@ -42,7 +42,7 @@ sites:
   - name: acadian
     url: https://acadianlogistics.com
   - name: beaconunited2
-    url: https://beacon-united.com
+    url: http://beacon-united.com
   - name: apgroup
     url: https://apgroup.wpengine.com
   - name: xmasshowcase
