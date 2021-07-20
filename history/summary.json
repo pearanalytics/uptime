@@ -34,7 +34,8 @@
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2021-07-19": 1075
+      "2021-07-20": 7,
+      "2021-07-19": 1103
     }
   },
   {
@@ -198,7 +199,8 @@
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2021-07-19": 1075
+      "2021-07-20": 7,
+      "2021-07-19": 1103
     }
   },
   {
@@ -218,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1075
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -310,7 +313,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1075
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -330,7 +334,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1074
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -350,7 +355,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1074
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -406,7 +412,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1074
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -624,7 +631,8 @@
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2021-07-19": 1074
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -644,7 +652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1074
+      "2021-07-20": 7,
+      "2021-07-19": 1102
     }
   },
   {
@@ -1085,19 +1094,17 @@
     "icon": "https://favicons.githubusercontent.com/www.alamofireworks.com",
     "slug": "alamofireworks",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 564,
     "timeWeek": 564,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {
-      "2021-07-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beeclean",
@@ -1116,7 +1123,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-19": 1073
+      "2021-07-20": 7,
+      "2021-07-19": 1101
     }
   },
   {
@@ -1125,11 +1133,11 @@
     "icon": "https://favicons.githubusercontent.com/siteowl.wpengine.com",
     "slug": "siteowl",
     "status": "up",
-    "uptime": "7.87%",
-    "uptimeDay": "7.87%",
-    "uptimeWeek": "7.87%",
-    "uptimeMonth": "7.87%",
-    "uptimeYear": "7.87%",
+    "uptime": "10.74%",
+    "uptimeDay": "10.74%",
+    "uptimeWeek": "10.74%",
+    "uptimeMonth": "10.74%",
+    "uptimeYear": "10.74%",
     "time": 1199,
     "timeDay": 1199,
     "timeWeek": 1199,
