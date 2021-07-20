@@ -9,8 +9,6 @@ sites:
     url: https://peardev.wpengine.com
     headers: 
       - "Authorization: Basic $AUTH_PEARDEVSITE"
-  - name: wellnesstech
-    url: https://wellnesstech.wpengine.com
   - name: pearanalytics
     url: https://pearanalytics.com
   - name: fladvisors
@@ -43,16 +41,10 @@ sites:
     url: https://acadianlogistics.com
   - name: beaconunited2
     url: http://beacon-united.com
-  - name: apgroup
-    url: https://apgroup.wpengine.com
-  - name: xmasshowcase
-    url: https://christmasshowcase.com
   - name: strauch
     url: https://www.strauchlaw.com
   - name: copcnew
     url: https://www.copc.com
-  - name: depexp
-    url: https://dependableexpress.com
   - name: amazingair
     url: https://amazingairsolutions.co
   - name: firsttexan
@@ -75,10 +67,6 @@ sites:
     url: https://alamobuyers.com
   - name: tluadm
     url: https://tluadm.wpengine.com
-  - name: homworks
-    url: https://homworks.wpengine.com
-  - name: stssh
-    url: https://saroboticsurgery.com
   - name: saparksfound
     url: https://saparksfoundation.org
   - name: sabuyers
@@ -107,8 +95,6 @@ sites:
     url: https://riachueloranch.com
   - name: ignitecc
     url: https://ignitecommunity.church
-  - name: altitudesa
-    url: https://www.altitudesa.com
   - name: idpsalientup
     url: https://indirectpro.com
   - name: copcsalientup
