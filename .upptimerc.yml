@@ -155,7 +155,6 @@ status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
 status-website:
-  apiBaseUrl: https://api.github.com
   publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.pearanalytics.com
@@ -168,12 +167,12 @@ status-website:
   logoUrl: https://pearanalytics.com/wp-content/uploads/2019/04/logo.png
   introTitle: "Client Uptime Monitor"
   introMessage: 
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
-  #   - title: PearAnalytics
-  #     href: https://pearanalytics.com/
-# Upptime also supports notifications, assigning issues, and more
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: PearAnalytics
+      href: https://pearanalytics.com/
+Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
