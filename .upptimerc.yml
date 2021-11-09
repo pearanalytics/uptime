@@ -127,30 +127,30 @@ sites:
     url: https://lesauce.wpengine.com
   - name: beecleanold
     url: https://beecleanold.wpengine.com
-  - name: mdunnebrands
-    url: https://dunnebrands.com
-  - name: sacounselors
-    url: https://sacounselors.wpengine.com
-  - name: riptidewash
-    url: https://riptideautowashes.com
-  - name: officefurnliq
-    url: https://www.officefurnituresa.com
-  - name: espronceda
-    url: https://alamodivorcelawyer.com
-  - name: unrealdigital
-    url: https://www.unrealdigitalgroup.com
-  - name: npinaction
-    url: https://nonprofitsinaction.org
-  - name: riptideuvalde
-    url: https://uvaldecarwash.com
-  - name: logopop
-    url: https://thelogopop.com
-  - name: xenexlive
-    url: https://xenex.com
-  - name: allenlive
-    url: https://lumberhardware.com
-  - name: nomaskspatriot
-    url: https://nomaskspatriot.wpengine.com
+  # - name: mdunnebrands
+  #   url: https://dunnebrands.com
+  # - name: sacounselors
+  #   url: https://sacounselors.wpengine.com
+  # - name: riptidewash
+  #   url: https://riptideautowashes.com
+  # - name: officefurnliq
+  #   url: https://www.officefurnituresa.com
+  # - name: espronceda
+  #   url: https://alamodivorcelawyer.com
+  # - name: unrealdigital
+  #   url: https://www.unrealdigitalgroup.com
+  # - name: npinaction
+  #   url: https://nonprofitsinaction.org
+  # - name: riptideuvalde
+  #   url: https://uvaldecarwash.com
+  # - name: logopop
+  #   url: https://thelogopop.com
+  # - name: xenexlive
+  #   url: https://xenex.com
+  # - name: allenlive
+  #   url: https://lumberhardware.com
+  # - name: nomaskspatriot
+  #   url: https://nomaskspatriot.wpengine.com
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
@@ -167,12 +167,12 @@ status-website:
   logoUrl: https://pearanalytics.com/wp-content/uploads/2019/04/logo.png
   introTitle: "Client Uptime Monitor"
   introMessage: 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: PearAnalytics
-      href: https://pearanalytics.com/
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
+  #   - title: PearAnalytics
+  #     href: https://pearanalytics.com/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
