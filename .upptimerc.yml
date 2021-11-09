@@ -174,5 +174,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: PearAnalytics
       href: https://pearanalytics.com/
-Upptime also supports notifications, assigning issues, and more
+# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
