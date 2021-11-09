@@ -155,6 +155,7 @@ status-page:
   robotsText: "User-agent: * \n Disallow: /"
   
 status-website:
+  apiBaseUrl: https://api.github.com
   publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.pearanalytics.com
