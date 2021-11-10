@@ -19,32 +19,30 @@ sites:
     url: https://universalbookbindery.com
   - name: concussionguy
     url: https://concussionguy.com
-  - name: copccopy
-    url: https://copccopy.wpengine.com
   - name: alamonote
     url: https://alamonote.wpengine.com
   - name: shirane
     url: https://shiranefoundation.org
-  - name: intranetpear
-    url: https://intranetpear.wpengine.com
-    headers: 
-      - "Authorization: Basic $AUTH_PEARINTRANET"
-  - name: aceschoolorg
-    url: http://aceschoolorg.wpengine.com
+  # - name: intranetpear
+  #   url: https://intranetpear.wpengine.com
+  #   headers: 
+  #     - "Authorization: Basic $AUTH_PEARINTRANET"
+  # - name: aceschoolorg
+  #   url: http://aceschoolorg.wpengine.com
   - name: eharris
-    url: https://eharris.wpengine.com
+    url: https://eharrismd.com
   - name: bhrnew
     url: https://berkshirehairremoval.com
-  - name: findingstax
-    url: https://findingstax.wpengine.com
+  # - name: findingstax
+  #   url: https://findingstax.wpengine.com
   - name: acadian
     url: https://acadianlogistics.com
   - name: beaconunited2
     url: http://beacon-united.com
   - name: strauch
     url: https://www.strauchlaw.com
-  - name: copcnew
-    url: https://www.copc.com
+  # - name: copcnew
+  #   url: https://www.copc.com
   - name: amazingair
     url: https://amazingairsolutions.co
   - name: firsttexan
@@ -57,38 +55,38 @@ sites:
     url: https://alamomineralbuyers.com
   - name: alamohomebuyer
     url: https://alamohomebuyers.com
-  - name: sanotebuyer
-    url: https://sanotebuyer.wpengine.com
-  - name: sahomebuyer
-    url: https://sahomebuyer.wpengine.com
+  # - name: sanotebuyer
+  #   url: https://sanotebuyer.wpengine.com
+  # - name: sahomebuyer
+  #   url: https://sahomebuyer.wpengine.com
   - name: fascinationsp
     url: https://fascinationstreetpod.com
   - name: alamobuyers
     url: https://alamobuyers.com
-  - name: tluadm
-    url: https://tluadm.wpengine.com
+  # - name: tluadm
+  #   url: https://tluadm.wpengine.com
   - name: saparksfound
     url: https://saparksfoundation.org
-  - name: sabuyers
-    url: https://sabuyers.wpengine.com
-  - name: sabuyer
-    url: https://sabuyer.wpengine.com
-  - name: sellmyplace
-    url: https://sellmyplace.wpengine.com
-  - name: sellmynote
-    url: https://sellmynote.com
-  - name: sandlersa
-    url: https://sandlersa.wpengine.com
-  - name: yokelfinancial
-    url: https://yokelfinancial.wpengine.com
-  - name: copcprocure
-    url: https://copcprocure.wpengine.com
-  - name: jsbhs
-    url: https://jsbhs.wpengine.com
-  - name: ehrenberg
-    url: https://ehrenberg.wpengine.com
-  - name: eharrisv2
-    url: https://www.eharrismd.com
+  # - name: sabuyers
+  #   url: https://sabuyers.wpengine.com
+  # - name: sabuyer
+  #   url: https://sabuyer.wpengine.com
+  # - name: sellmyplace
+  #   url: https://sellmyplace.wpengine.com
+  # - name: sellmynote
+  #   url: https://sellmynote.com
+  # - name: sandlersa
+  #   url: https://sandlersa.wpengine.com
+  # - name: yokelfinancial
+  #   url: https://yokelfinancial.wpengine.com
+  # - name: copcprocure
+  #   url: https://copcprocure.wpengine.com
+  # - name: jsbhs
+  #   url: https://jsbhs.wpengine.com
+  # - name: ehrenberg
+  #   url: https://ehrenberg.wpengine.com
+  # - name: eharrisv2
+  #   url: https://www.eharrismd.com
   - name: riachueloranch
     url: https://riachueloranch.com
   - name: ignitecc
@@ -124,7 +122,7 @@ sites:
   - name: edgecombe
     url: https://edgecombe.com
   - name: lesauce
-    url: https://lesauce.wpengine.com
+    url: https://lesaucecompany.com
   # - name: beecleanold
   #   url: https://beecleanold.wpengine.com
   - name: sacounselors
