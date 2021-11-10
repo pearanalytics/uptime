@@ -6,7 +6,7 @@ assignees:
 # Add your sites here
 sites:
   - name: Pear Dev Site 
-    url: https://peardev.wpengine.com
+    url: https://dev.pearanalytics.com
     headers: 
       - "Authorization: Basic $AUTH_PEARDEVSITE"
   - name: pearanalytics
@@ -14,7 +14,7 @@ sites:
   - name: fladvisors
     url: https://fladvisors.com
   - name: copc
-    url: https://copc.wpengine.com
+    url: https://copc.com
   - name: universalbb
     url: https://universalbookbindery.com
   - name: concussionguy
@@ -95,8 +95,8 @@ sites:
     url: https://ignitecommunity.church
   - name: idpsalientup
     url: https://indirectpro.com
-  - name: copcsalientup
-    url: https://copcsalientup.wpengine.com
+  # - name: copcsalientup
+  #   url: https://copcsalientup.wpengine.com
   - name: hartmanfound
     url: https://gordonhartman.com
   - name: hotshotfinal
@@ -105,38 +105,36 @@ sites:
     url: https://workatmerchco.com
   - name: merchcomain
     url: https://merchcoservices.com
-  - name: ibuysa
-    url: https://ibuysa.wpengine.com
+  # - name: ibuysa
+  #   url: https://ibuysa.wpengine.com
   - name: hdnew
     url: https://www.thetriallawyers.com
   - name: tuyatech
     url: https://tuyatech.com
   - name: alamofireworks
     url: https://www.alamofireworks.com
-  - name: beeclean
-    url: https://beeclean.wpengine.com
-  - name: siteowl
-    url: https://siteowl.wpengine.com
-  - name: emmajanev1
-    url: https://emmajanev1.wpengine.com
+  # - name: beeclean
+  #   url: https://beeclean.wpengine.com
+  # - name: siteowl
+  #   url: https://siteowl.wpengine.com
+  # - name: emmajanev1
+  #   url: https://emmajanev1.wpengine.com
   - name: robinsonvm
     url: https://www.robinsonvalue.com
   - name: edgecombe
     url: https://edgecombe.com
   - name: lesauce
     url: https://lesauce.wpengine.com
-  - name: beecleanold
-    url: https://beecleanold.wpengine.com
-  # - name: mdunnebrands
-  #   url: https://dunnebrands.com
-  # - name: sacounselors
-  #   url: https://sacounselors.wpengine.com
+  # - name: beecleanold
+  #   url: https://beecleanold.wpengine.com
+  - name: sacounselors
+    url: https://sacounselors.wpengine.com
   # - name: riptidewash
   #   url: https://riptideautowashes.com
-  # - name: officefurnliq
-  #   url: https://www.officefurnituresa.com
-  # - name: espronceda
-  #   url: https://alamodivorcelawyer.com
+  - name: officefurnliq
+    url: https://www.officefurnituresa.com
+  - name: espronceda
+    url: https://alamodivorcelawyer.com
   # - name: unrealdigital
   #   url: https://www.unrealdigitalgroup.com
   # - name: npinaction
@@ -145,10 +143,10 @@ sites:
   #   url: https://uvaldecarwash.com
   # - name: logopop
   #   url: https://thelogopop.com
-  # - name: xenexlive
-  #   url: https://xenex.com
-  # - name: allenlive
-  #   url: https://lumberhardware.com
+  - name: xenexlive
+    url: https://xenex.com
+  - name: allenlive
+    url: https://lumberhardware.com
   # - name: nomaskspatriot
   #   url: https://nomaskspatriot.wpengine.com
 status-page:
