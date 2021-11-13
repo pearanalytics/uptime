@@ -444,19 +444,19 @@
     "url": "https://indirectpro.com",
     "icon": "https://favicons.githubusercontent.com/indirectpro.com",
     "slug": "idpsalientup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 3193,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 625,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 839,
+    "timeDay": 4905,
+    "timeWeek": 1380,
+    "timeMonth": 1380,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2021-11-13": 0
+      "2021-11-13": 16
     }
   },
   {
