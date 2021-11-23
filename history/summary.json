@@ -282,9 +282,9 @@
     "url": "https://najimfoundation.org",
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -293,7 +293,9 @@
     "timeWeek": 4910,
     "timeMonth": 4552,
     "timeYear": 4426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-23": 0
+    }
   },
   {
     "name": "contegoim",
