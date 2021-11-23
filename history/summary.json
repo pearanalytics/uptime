@@ -282,19 +282,19 @@
     "url": "https://najimfoundation.org",
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4426,
-    "timeDay": 5477,
-    "timeWeek": 4910,
-    "timeMonth": 4552,
-    "timeYear": 4426,
+    "time": 4457,
+    "timeDay": 5555,
+    "timeWeek": 5001,
+    "timeMonth": 4603,
+    "timeYear": 4457,
     "dailyMinutesDown": {
-      "2021-11-23": 0
+      "2021-11-23": 9
     }
   },
   {
