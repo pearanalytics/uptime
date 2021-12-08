@@ -23,18 +23,10 @@ sites:
     url: https://alamonote.wpengine.com
   - name: shirane
     url: https://shiranefoundation.org
-  # - name: intranetpear
-  #   url: https://intranetpear.wpengine.com
-  #   headers: 
-  #     - "Authorization: Basic $AUTH_PEARINTRANET"
-  # - name: aceschoolorg
-  #   url: http://aceschoolorg.wpengine.com
   - name: eharris
     url: https://eharrismd.com
   - name: bhrnew
     url: https://berkshirehairremoval.com
-  # - name: findingstax
-  #   url: https://findingstax.wpengine.com
   - name: acadian
     url: https://acadianlogistics.com
   - name: beaconunited2
@@ -131,6 +123,10 @@ sites:
     url: https://www.officefurnituresa.com
   - name: espronceda
     url: https://alamodivorcelawyer.com
+  - name: Pear Tools
+    url: https://tools.pearanalytics.com
+  - name: Texas WFC
+    url: https://texaswfc.com
   # - name: unrealdigital
   #   url: https://www.unrealdigitalgroup.com
   # - name: npinaction
@@ -139,9 +135,9 @@ sites:
   #   url: https://uvaldecarwash.com
   # - name: logopop
   #   url: https://thelogopop.com
-  - name: xenexlive
+  - name: Xenex
     url: https://xenex.com
-  - name: allenlive
+  - name: Lumber Hardware
     url: https://lumberhardware.com
   # - name: nomaskspatriot
   #   url: https://nomaskspatriot.wpengine.com
