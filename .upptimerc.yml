@@ -5,12 +5,12 @@ assignees:
   - vidluther
 # Add your sites here
 sites:
+  - name: Pear Analytics
+    url: https://pearanalytics.com
   - name: Pear Dev Site 
     url: https://dev.pearanalytics.com
     headers: 
       - "Authorization: Basic $AUTH_PEARDEVSITE"
-  - name: pearanalytics
-    url: https://pearanalytics.com
   - name: fladvisors
     url: https://fladvisors.com
   - name: copc
@@ -139,6 +139,10 @@ sites:
     url: https://xenex.com
   - name: Lumber Hardware
     url: https://lumberhardware.com
+  - name: Haven for Hope
+    url: https://www.havenforhope.org
+  - name: Paramour Bar
+    url: https://paramourbar.com
   # - name: nomaskspatriot
   #   url: https://nomaskspatriot.wpengine.com
 status-page:
