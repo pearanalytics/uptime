@@ -699,19 +699,19 @@
     "url": "https://texaswfc.com",
     "icon": "https://favicons.githubusercontent.com/texaswfc.com",
     "slug": "texas-wfc",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 419,
     "timeDay": 453,
     "timeWeek": 419,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2021-12-12": 138
+      "2021-12-12": 130
     }
   },
   {
