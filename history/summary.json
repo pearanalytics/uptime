@@ -738,19 +738,19 @@
     "url": "https://lumberhardware.com",
     "icon": "https://favicons.githubusercontent.com/lumberhardware.com",
     "slug": "lumber-hardware",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 468,
-    "timeDay": 313,
-    "timeWeek": 468,
-    "timeMonth": 468,
-    "timeYear": 468,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 481,
+    "timeDay": 451,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 13
     }
   },
   {
