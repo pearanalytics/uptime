@@ -390,9 +390,9 @@
     "url": "https://saparksfoundation.org",
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "saparksfound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -401,7 +401,9 @@
     "timeWeek": 1166,
     "timeMonth": 713,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-05": 0
+    }
   },
   {
     "name": "riachueloranch",
@@ -452,7 +454,7 @@
     "uptimeYear": "99.99%",
     "time": 755,
     "timeDay": 697,
-    "timeWeek": 1295,
+    "timeWeek": 1210,
     "timeMonth": 761,
     "timeYear": 755,
     "dailyMinutesDown": {
@@ -702,11 +704,11 @@
     "icon": "https://favicons.githubusercontent.com/texaswfc.com",
     "slug": "texas-wfc",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 389,
     "timeDay": 470,
     "timeWeek": 432,
