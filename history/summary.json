@@ -392,19 +392,19 @@
     "url": "https://saparksfoundation.org",
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "saparksfound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 711,
-    "timeWeek": 1034,
-    "timeMonth": 713,
-    "timeYear": 618,
+    "time": 619,
+    "timeDay": 683,
+    "timeWeek": 999,
+    "timeMonth": 711,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2022-01-07": 1
+      "2022-01-07": 8
     }
   },
   {
