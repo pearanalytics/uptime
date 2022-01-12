@@ -393,19 +393,17 @@
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "saparksfound",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 613,
     "timeDay": 452,
     "timeWeek": 576,
     "timeMonth": 710,
     "timeYear": 613,
-    "dailyMinutesDown": {
-      "2022-01-12": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "riachueloranch",
@@ -448,9 +446,9 @@
     "url": "https://indirectpro.com",
     "icon": "https://favicons.githubusercontent.com/indirectpro.com",
     "slug": "idpsalientup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "4.61%",
+    "uptimeDay": "5.40%",
     "uptimeWeek": "83.06%",
     "uptimeMonth": "96.10%",
     "uptimeYear": "99.32%",
