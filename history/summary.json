@@ -392,10 +392,10 @@
     "url": "https://saparksfoundation.org",
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "saparksfound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -403,7 +403,9 @@
     "timeWeek": 568,
     "timeMonth": 712,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-12": 1
+    }
   },
   {
     "name": "riachueloranch",
@@ -448,7 +450,7 @@
     "slug": "idpsalientup",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "3.60%",
     "uptimeWeek": "83.06%",
     "uptimeMonth": "96.10%",
     "uptimeYear": "99.32%",
