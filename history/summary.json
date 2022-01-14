@@ -43,18 +43,20 @@
     "url": "https://fladvisors.com",
     "icon": "https://favicons.githubusercontent.com/fladvisors.com",
     "slug": "fladvisors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 460,
     "timeWeek": 520,
     "timeMonth": 452,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 5
+    }
   },
   {
     "name": "copc",
@@ -97,18 +99,20 @@
     "url": "https://concussionguy.com",
     "icon": "https://favicons.githubusercontent.com/concussionguy.com",
     "slug": "concussionguy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 355,
     "timeWeek": 326,
     "timeMonth": 340,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 4
+    }
   },
   {
     "name": "alamonote",
@@ -210,11 +214,11 @@
     "icon": "https://favicons.githubusercontent.com/beacon-united.com",
     "slug": "beaconunited2",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 464,
     "timeDay": 652,
     "timeWeek": 471,
@@ -356,36 +360,40 @@
     "url": "https://fascinationstreetpod.com",
     "icon": "https://favicons.githubusercontent.com/fascinationstreetpod.com",
     "slug": "fascinationsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 400,
     "timeWeek": 371,
     "timeMonth": 385,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 3
+    }
   },
   {
     "name": "alamobuyers",
     "url": "https://alamobuyers.com",
     "icon": "https://favicons.githubusercontent.com/alamobuyers.com",
     "slug": "alamobuyers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 384,
     "timeWeek": 397,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 3
+    }
   },
   {
     "name": "saparksfound",
@@ -400,7 +408,7 @@
     "uptimeYear": "100.00%",
     "time": 608,
     "timeDay": 508,
-    "timeWeek": 509,
+    "timeWeek": 491,
     "timeMonth": 705,
     "timeYear": 608,
     "dailyMinutesDown": {}
@@ -410,28 +418,30 @@
     "url": "https://riachueloranch.com",
     "icon": "https://favicons.githubusercontent.com/riachueloranch.com",
     "slug": "riachueloranch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 436,
     "timeWeek": 383,
     "timeMonth": 402,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "ignitecc",
     "url": "https://ignitecommunity.church",
     "icon": "https://favicons.githubusercontent.com/ignitecommunity.church",
     "slug": "ignitecc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
@@ -439,7 +449,9 @@
     "timeWeek": 500,
     "timeMonth": 521,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "idpsalientup",
@@ -488,10 +500,10 @@
     "url": "https://hotshotfinalmile.com",
     "icon": "https://favicons.githubusercontent.com/hotshotfinalmile.com",
     "slug": "hotshotfinal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
@@ -499,17 +511,19 @@
     "timeWeek": 413,
     "timeMonth": 426,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 2
+    }
   },
   {
     "name": "workatmercho",
     "url": "https://workatmerchco.com",
     "icon": "https://favicons.githubusercontent.com/workatmerchco.com",
     "slug": "workatmercho",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
@@ -517,7 +531,9 @@
     "timeWeek": 423,
     "timeMonth": 442,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 1
+    }
   },
   {
     "name": "merchcomain",
@@ -560,10 +576,10 @@
     "url": "https://tuyatech.com",
     "icon": "https://favicons.githubusercontent.com/tuyatech.com",
     "slug": "tuyatech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -571,7 +587,9 @@
     "timeWeek": 372,
     "timeMonth": 384,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 1
+    }
   },
   {
     "name": "robinsonvm",
@@ -687,11 +705,11 @@
     "icon": "https://favicons.githubusercontent.com/tools.pearanalytics.com",
     "slug": "pear-tools",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 207,
     "timeDay": 153,
     "timeWeek": 219,
@@ -709,11 +727,11 @@
     "icon": "https://favicons.githubusercontent.com/texaswfc.com",
     "slug": "texas-wfc",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.45%",
     "time": 390,
     "timeDay": 522,
     "timeWeek": 427,
@@ -748,15 +766,15 @@
     "icon": "https://favicons.githubusercontent.com/lumberhardware.com",
     "slug": "lumber-hardware",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 488,
     "timeDay": 536,
     "timeWeek": 473,
-    "timeMonth": 492,
+    "timeMonth": 489,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2021-12-31": 18
