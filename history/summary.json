@@ -5,38 +5,35 @@
     "icon": "https://favicons.githubusercontent.com/pearanalytics.com",
     "slug": "pear-analytics",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 464,
     "timeWeek": 408,
     "timeMonth": 435,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2022-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pear Dev Site",
     "url": "https://dev.pearanalytics.com",
     "icon": "https://favicons.githubusercontent.com/dev.pearanalytics.com",
     "slug": "pear-dev-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 457,
-    "timeDay": 463,
-    "timeWeek": 401,
-    "timeMonth": 434,
-    "timeYear": 457,
+    "time": 560,
+    "timeDay": 5046,
+    "timeWeek": 1555,
+    "timeMonth": 721,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-01-14": 6,
       "2021-11-10": 850,
       "2021-11-09": 134
     }
@@ -48,18 +45,16 @@
     "slug": "fladvisors",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 3288,
     "timeWeek": 1220,
     "timeMonth": 629,
     "timeYear": 499,
-    "dailyMinutesDown": {
-      "2022-01-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "copc",
@@ -84,37 +79,35 @@
     "url": "https://universalbookbindery.com",
     "icon": "https://favicons.githubusercontent.com/universalbookbindery.com",
     "slug": "universalbb",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 357,
-    "timeWeek": 310,
-    "timeMonth": 326,
-    "timeYear": 322,
-    "dailyMinutesDown": {
-      "2022-01-14": 5
-    }
+    "time": 351,
+    "timeDay": 1642,
+    "timeWeek": 638,
+    "timeMonth": 407,
+    "timeYear": 351,
+    "dailyMinutesDown": {}
   },
   {
     "name": "concussionguy",
     "url": "https://concussionguy.com",
     "icon": "https://favicons.githubusercontent.com/concussionguy.com",
     "slug": "concussionguy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 331,
-    "timeDay": 355,
-    "timeWeek": 326,
-    "timeMonth": 340,
-    "timeYear": 331,
+    "time": 368,
+    "timeDay": 2040,
+    "timeWeek": 751,
+    "timeMonth": 445,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2022-01-14": 17
     }
@@ -124,20 +117,18 @@
     "url": "https://alamonote.wpengine.com",
     "icon": "https://favicons.githubusercontent.com/alamonote.wpengine.com",
     "slug": "alamonote",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 518,
-    "timeWeek": 709,
-    "timeMonth": 723,
+    "timeDay": 634,
+    "timeWeek": 714,
+    "timeMonth": 724,
     "timeYear": 671,
-    "dailyMinutesDown": {
-      "2022-01-14": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shirane",
@@ -367,11 +358,11 @@
     "url": "https://fascinationstreetpod.com",
     "icon": "https://favicons.githubusercontent.com/fascinationstreetpod.com",
     "slug": "fascinationsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 429,
@@ -379,7 +370,7 @@
     "timeMonth": 388,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2022-01-14": 11
+      "2022-01-14": 3
     }
   },
   {
@@ -387,11 +378,11 @@
     "url": "https://alamobuyers.com",
     "icon": "https://favicons.githubusercontent.com/alamobuyers.com",
     "slug": "alamobuyers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 431,
@@ -399,7 +390,7 @@
     "timeMonth": 402,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-01-14": 11
+      "2022-01-14": 3
     }
   },
   {
@@ -427,18 +418,16 @@
     "slug": "riachueloranch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 3977,
     "timeWeek": 1275,
     "timeMonth": 624,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2022-01-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ignitecc",
@@ -446,19 +435,17 @@
     "icon": "https://favicons.githubusercontent.com/ignitecommunity.church",
     "slug": "ignitecc",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 460,
     "timeDay": 386,
     "timeWeek": 500,
     "timeMonth": 521,
     "timeYear": 460,
-    "dailyMinutesDown": {
-      "2022-01-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "idpsalientup",
@@ -508,19 +495,17 @@
     "icon": "https://favicons.githubusercontent.com/hotshotfinalmile.com",
     "slug": "hotshotfinal",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 420,
     "timeDay": 445,
     "timeWeek": 413,
     "timeMonth": 426,
     "timeYear": 420,
-    "dailyMinutesDown": {
-      "2022-01-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "workatmercho",
@@ -528,19 +513,17 @@
     "icon": "https://favicons.githubusercontent.com/workatmerchco.com",
     "slug": "workatmercho",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 429,
     "timeWeek": 423,
     "timeMonth": 442,
     "timeYear": 437,
-    "dailyMinutesDown": {
-      "2022-01-14": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "merchcomain",
@@ -583,11 +566,11 @@
     "url": "https://tuyatech.com",
     "icon": "https://favicons.githubusercontent.com/tuyatech.com",
     "slug": "tuyatech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 2739,
@@ -595,7 +578,7 @@
     "timeMonth": 531,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2022-01-14": 12
+      "2022-01-14": 1
     }
   },
   {
@@ -754,10 +737,10 @@
     "url": "https://xenex.com",
     "icon": "https://favicons.githubusercontent.com/xenex.com",
     "slug": "xenex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
@@ -765,7 +748,9 @@
     "timeWeek": 398,
     "timeMonth": 421,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 1
+    }
   },
   {
     "name": "Lumber Hardware",
