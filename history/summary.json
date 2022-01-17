@@ -652,10 +652,10 @@
     "url": "https://www.officefurnituresa.com",
     "icon": "https://favicons.githubusercontent.com/www.officefurnituresa.com",
     "slug": "officefurnliq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
@@ -663,7 +663,9 @@
     "timeWeek": 583,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-17": 1
+    }
   },
   {
     "name": "espronceda",
