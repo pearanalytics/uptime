@@ -63,18 +63,16 @@
     "slug": "copc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 931,
     "timeWeek": 593,
     "timeMonth": 724,
     "timeYear": 689,
-    "dailyMinutesDown": {
-      "2022-01-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "universalbb",
@@ -193,10 +191,10 @@
     "url": "https://acadianlogistics.com",
     "icon": "https://favicons.githubusercontent.com/acadianlogistics.com",
     "slug": "acadian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 684,
@@ -205,6 +203,7 @@
     "timeMonth": 471,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2022-01-29": 1,
       "2021-11-11": 21
     }
   },
@@ -252,10 +251,10 @@
     "url": "https://amazingairsolutions.co",
     "icon": "https://favicons.githubusercontent.com/amazingairsolutions.co",
     "slug": "amazingair",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
@@ -263,7 +262,9 @@
     "timeWeek": 398,
     "timeMonth": 574,
     "timeYear": 614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-29": 1
+    }
   },
   {
     "name": "firsttexan",
