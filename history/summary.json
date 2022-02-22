@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/pearanalytics.com",
     "slug": "pear-analytics",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 353,
     "timeDay": 292,
     "timeWeek": 396,
@@ -77,7 +77,7 @@
     "timeDay": 369,
     "timeWeek": 619,
     "timeMonth": 678,
-    "timeYear": 702,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   },
   {
@@ -403,10 +403,10 @@
     "url": "https://saparksfoundation.org",
     "icon": "https://favicons.githubusercontent.com/saparksfoundation.org",
     "slug": "saparksfound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
@@ -414,7 +414,9 @@
     "timeWeek": 441,
     "timeMonth": 520,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "riachueloranch",
@@ -712,7 +714,7 @@
     "time": 232,
     "timeDay": 363,
     "timeWeek": 275,
-    "timeMonth": 261,
+    "timeMonth": 259,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2022-01-12": 18,
@@ -733,7 +735,7 @@
     "uptimeYear": "99.66%",
     "time": 621,
     "timeDay": 202,
-    "timeWeek": 3169,
+    "timeWeek": 3544,
     "timeMonth": 1109,
     "timeYear": 621,
     "dailyMinutesDown": {
@@ -757,7 +759,7 @@
     "timeDay": 206,
     "timeWeek": 352,
     "timeMonth": 362,
-    "timeYear": 350,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
