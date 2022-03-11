@@ -13,7 +13,7 @@
     "time": 363,
     "timeDay": 369,
     "timeWeek": 436,
-    "timeMonth": 429,
+    "timeMonth": 433,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2022-03-11": 16,
@@ -93,18 +93,20 @@
     "url": "https://universalbookbindery.com",
     "icon": "https://favicons.githubusercontent.com/universalbookbindery.com",
     "slug": "universalbb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 413,
     "timeWeek": 333,
     "timeMonth": 308,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 7
+    }
   },
   {
     "name": "concussionguy",
@@ -149,18 +151,20 @@
     "url": "https://shiranefoundation.org",
     "icon": "https://favicons.githubusercontent.com/shiranefoundation.org",
     "slug": "shirane",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 647,
     "timeWeek": 509,
     "timeMonth": 469,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 7
+    }
   },
   {
     "name": "eharris",
@@ -168,11 +172,11 @@
     "icon": "https://favicons.githubusercontent.com/eharrismd.com",
     "slug": "eharris",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 857,
     "timeDay": 957,
     "timeWeek": 856,
@@ -190,18 +194,20 @@
     "url": "https://berkshirehairremoval.com",
     "icon": "https://favicons.githubusercontent.com/berkshirehairremoval.com",
     "slug": "bhrnew",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 427,
     "timeWeek": 373,
     "timeMonth": 352,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 6
+    }
   },
   {
     "name": "acadian",
@@ -285,36 +291,40 @@
     "url": "https://firsttexanrealty.com",
     "icon": "https://favicons.githubusercontent.com/firsttexanrealty.com",
     "slug": "firsttexan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 429,
     "timeWeek": 348,
     "timeMonth": 312,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 6
+    }
   },
   {
     "name": "najim",
     "url": "https://najimfoundation.org",
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 4825,
     "timeDay": 5213,
     "timeWeek": 4921,
     "timeMonth": 5130,
     "timeYear": 4825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 5
+    }
   },
   {
     "name": "contegoim",
@@ -339,18 +349,20 @@
     "url": "https://alamomineralbuyers.com",
     "icon": "https://favicons.githubusercontent.com/alamomineralbuyers.com",
     "slug": "alamomineral",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 253,
     "timeWeek": 342,
     "timeMonth": 341,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 4
+    }
   },
   {
     "name": "alamohomebuyer",
@@ -358,18 +370,18 @@
     "icon": "https://favicons.githubusercontent.com/alamohomebuyers.com",
     "slug": "alamohomebuyer",
     "status": "down",
-    "uptime": "94.25%",
+    "uptime": "94.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.56%",
-    "uptimeYear": "94.25%",
+    "uptimeMonth": "54.57%",
+    "uptimeYear": "94.13%",
     "time": 347,
     "timeDay": 267,
     "timeWeek": 287,
     "timeMonth": 337,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-03-11": 604,
+      "2022-03-11": 1038,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -409,18 +421,20 @@
     "url": "https://alamobuyers.com",
     "icon": "https://favicons.githubusercontent.com/alamobuyers.com",
     "slug": "alamobuyers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 385,
     "timeDay": 479,
     "timeWeek": 414,
     "timeMonth": 376,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 3
+    }
   },
   {
     "name": "saparksfound",
@@ -466,18 +480,20 @@
     "url": "https://ignitecommunity.church",
     "icon": "https://favicons.githubusercontent.com/ignitecommunity.church",
     "slug": "ignitecc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 453,
     "timeDay": 488,
     "timeWeek": 435,
     "timeMonth": 456,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 3
+    }
   },
   {
     "name": "idpsalientup",
@@ -529,18 +545,20 @@
     "url": "https://hotshotfinalmile.com",
     "icon": "https://favicons.githubusercontent.com/hotshotfinalmile.com",
     "slug": "hotshotfinal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 509,
     "timeWeek": 433,
     "timeMonth": 406,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "workatmercho",
@@ -655,10 +673,10 @@
     "url": "https://lesaucecompany.com",
     "icon": "https://favicons.githubusercontent.com/lesaucecompany.com",
     "slug": "lesauce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
@@ -666,17 +684,19 @@
     "timeWeek": 478,
     "timeMonth": 419,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 2
+    }
   },
   {
     "name": "sacounselors",
     "url": "https://sacounselors.wpengine.com",
     "icon": "https://favicons.githubusercontent.com/sacounselors.wpengine.com",
     "slug": "sacounselors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
@@ -684,7 +704,9 @@
     "timeWeek": 1430,
     "timeMonth": 1149,
     "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "officefurnliq",
@@ -833,10 +855,10 @@
     "url": "https://paramourbar.com",
     "icon": "https://favicons.githubusercontent.com/paramourbar.com",
     "slug": "paramour-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -844,6 +866,8 @@
     "timeWeek": 373,
     "timeMonth": 340,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   }
 ]
