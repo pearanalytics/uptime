@@ -383,7 +383,7 @@
     "timeMonth": 259,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2022-03-25": 1345,
+      "2022-03-25": 1371,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
@@ -516,10 +516,10 @@
     "url": "https://indirectpro.com",
     "icon": "https://favicons.githubusercontent.com/indirectpro.com",
     "slug": "idpsalientup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 848,
@@ -528,6 +528,7 @@
     "timeMonth": 510,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2022-03-25": 1,
       "2022-02-20": 16,
       "2022-01-20": 40,
       "2022-01-19": 148,
@@ -545,7 +546,7 @@
     "slug": "hartmanfound",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "33.87%",
+    "uptimeDay": "35.64%",
     "uptimeWeek": "86.26%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.61%",
@@ -674,11 +675,11 @@
     "url": "https://edgecombe.com",
     "icon": "https://favicons.githubusercontent.com/edgecombe.com",
     "slug": "edgecombe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1081,
     "timeDay": 3349,
@@ -686,7 +687,7 @@
     "timeMonth": 1235,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2022-03-25": 11
+      "2022-03-25": 1
     }
   },
   {
