@@ -384,7 +384,7 @@
     "timeMonth": 254,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-03-26": 1051,
+      "2022-03-26": 1058,
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
@@ -677,19 +677,19 @@
     "url": "https://edgecombe.com",
     "icon": "https://favicons.githubusercontent.com/edgecombe.com",
     "slug": "edgecombe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1118,
-    "timeDay": 4525,
-    "timeWeek": 2188,
-    "timeMonth": 1415,
-    "timeYear": 1118,
+    "time": 1117,
+    "timeDay": 3629,
+    "timeWeek": 2063,
+    "timeMonth": 1399,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2022-03-26": 1
+      "2022-03-26": 8
     }
   },
   {
