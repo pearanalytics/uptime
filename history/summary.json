@@ -381,7 +381,7 @@
     "uptime": "88.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.04%",
+    "uptimeMonth": "24.06%",
     "uptimeYear": "88.07%",
     "time": 335,
     "timeDay": 195,
@@ -687,19 +687,19 @@
     "url": "https://edgecombe.com",
     "icon": "https://favicons.githubusercontent.com/edgecombe.com",
     "slug": "edgecombe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1107,
-    "timeWeek": 1183,
-    "timeMonth": 1414,
-    "timeYear": 1123,
+    "time": 1121,
+    "timeDay": 951,
+    "timeWeek": 1135,
+    "timeMonth": 1396,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2022-04-05": 1
+      "2022-04-05": 7
     }
   },
   {
