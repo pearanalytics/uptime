@@ -4,11 +4,11 @@
     "url": "https://pearanalytics.com",
     "icon": "https://favicons.githubusercontent.com/pearanalytics.com",
     "slug": "pear-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.81%",
     "time": 374,
     "timeDay": 264,
@@ -16,7 +16,7 @@
     "timeMonth": 435,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-04-13": 11,
+      "2022-04-13": 15,
       "2022-04-09": 17,
       "2022-04-02": 22,
       "2022-04-01": 19,
@@ -42,11 +42,11 @@
     "url": "https://dev.pearanalytics.com",
     "icon": "https://favicons.githubusercontent.com/dev.pearanalytics.com",
     "slug": "pear-dev-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.74%",
     "time": 506,
     "timeDay": 2169,
@@ -54,7 +54,7 @@
     "timeMonth": 574,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-04-13": 11,
+      "2022-04-13": 15,
       "2021-11-10": 850,
       "2021-11-09": 134
     }
@@ -71,7 +71,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 382,
+    "timeDay": 143,
     "timeWeek": 407,
     "timeMonth": 435,
     "timeYear": 448,
@@ -102,11 +102,11 @@
     "url": "https://universalbookbindery.com",
     "icon": "https://favicons.githubusercontent.com/universalbookbindery.com",
     "slug": "universalbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 278,
@@ -114,7 +114,7 @@
     "timeMonth": 340,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-13": 10,
+      "2022-04-13": 13,
       "2022-03-11": 30
     }
   },
@@ -123,11 +123,11 @@
     "url": "https://concussionguy.com",
     "icon": "https://favicons.githubusercontent.com/concussionguy.com",
     "slug": "concussionguy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 345,
     "timeDay": 250,
@@ -135,7 +135,7 @@
     "timeMonth": 357,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-04-13": 10,
+      "2022-04-13": 3,
       "2022-01-14": 17
     }
   },
@@ -144,11 +144,11 @@
     "url": "https://alamonote.wpengine.com",
     "icon": "https://favicons.githubusercontent.com/alamonote.wpengine.com",
     "slug": "alamonote",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 719,
@@ -156,7 +156,7 @@
     "timeMonth": 685,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-04-13": 9
+      "2022-04-13": 2
     }
   },
   {
@@ -164,11 +164,11 @@
     "url": "https://shiranefoundation.org",
     "icon": "https://favicons.githubusercontent.com/shiranefoundation.org",
     "slug": "shirane",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 504,
     "timeDay": 1891,
@@ -176,7 +176,7 @@
     "timeMonth": 580,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-04-13": 9,
+      "2022-04-13": 2,
       "2022-03-11": 29
     }
   },
@@ -185,11 +185,11 @@
     "url": "https://eharrismd.com",
     "icon": "https://favicons.githubusercontent.com/eharrismd.com",
     "slug": "eharris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 857,
     "timeDay": 865,
@@ -197,7 +197,7 @@
     "timeMonth": 854,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 2,
       "2022-02-04": 1249,
       "2022-02-03": 1440,
       "2022-02-02": 531,
@@ -209,11 +209,11 @@
     "url": "https://berkshirehairremoval.com",
     "icon": "https://favicons.githubusercontent.com/berkshirehairremoval.com",
     "slug": "bhrnew",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 414,
     "timeDay": 1183,
@@ -221,7 +221,7 @@
     "timeMonth": 445,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 2,
       "2022-03-11": 29
     }
   },
@@ -250,11 +250,11 @@
     "url": "http://beacon-united.com",
     "icon": "https://favicons.githubusercontent.com/beacon-united.com",
     "slug": "beaconunited2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 474,
     "timeDay": 1339,
@@ -262,7 +262,7 @@
     "timeMonth": 551,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 2,
       "2021-07-20": 1414,
       "2021-07-19": 1102
     }
@@ -310,11 +310,11 @@
     "url": "https://firsttexanrealty.com",
     "icon": "https://favicons.githubusercontent.com/firsttexanrealty.com",
     "slug": "firsttexan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 325,
     "timeDay": 518,
@@ -322,7 +322,7 @@
     "timeMonth": 371,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 1,
       "2022-03-11": 28
     }
   },
@@ -331,11 +331,11 @@
     "url": "https://najimfoundation.org",
     "icon": "https://favicons.githubusercontent.com/najimfoundation.org",
     "slug": "najim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 4909,
     "timeDay": 5096,
@@ -343,7 +343,7 @@
     "timeMonth": 5104,
     "timeYear": 4909,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 1,
       "2022-03-11": 28
     }
   },
@@ -394,7 +394,7 @@
     "uptime": "88.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.97%",
+    "uptimeMonth": "48.25%",
     "uptimeYear": "88.40%",
     "time": 331,
     "timeDay": 411,
@@ -441,11 +441,11 @@
     "url": "https://fascinationstreetpod.com",
     "icon": "https://favicons.githubusercontent.com/fascinationstreetpod.com",
     "slug": "fascinationsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 381,
@@ -453,7 +453,7 @@
     "timeMonth": 409,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-04-13": 8
+      "2022-04-13": 1
     }
   },
   {
@@ -461,11 +461,11 @@
     "url": "https://alamobuyers.com",
     "icon": "https://favicons.githubusercontent.com/alamobuyers.com",
     "slug": "alamobuyers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 395,
     "timeDay": 711,
@@ -473,7 +473,7 @@
     "timeMonth": 438,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-04-13": 8,
+      "2022-04-13": 1,
       "2022-03-11": 27
     }
   },
@@ -491,7 +491,7 @@
     "time": 596,
     "timeDay": 1372,
     "timeWeek": 544,
-    "timeMonth": 554,
+    "timeMonth": 565,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2022-03-26": 30,
@@ -504,10 +504,10 @@
     "url": "https://riachueloranch.com",
     "icon": "https://favicons.githubusercontent.com/riachueloranch.com",
     "slug": "riachueloranch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
@@ -515,17 +515,19 @@
     "timeWeek": 398,
     "timeMonth": 419,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 1
+    }
   },
   {
     "name": "ignitecc",
     "url": "https://ignitecommunity.church",
     "icon": "https://favicons.githubusercontent.com/ignitecommunity.church",
     "slug": "ignitecc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 457,
@@ -534,6 +536,7 @@
     "timeMonth": 479,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2022-04-13": 1,
       "2022-03-11": 26
     }
   },
@@ -890,7 +893,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 448,
-    "timeDay": 309,
+    "timeDay": 140,
     "timeWeek": 376,
     "timeMonth": 445,
     "timeYear": 448,
