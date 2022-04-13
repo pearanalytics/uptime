@@ -6,9 +6,9 @@
     "slug": "pear-analytics",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
     "time": 374,
     "timeDay": 264,
@@ -16,7 +16,7 @@
     "timeMonth": 435,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-04-13": 15,
+      "2022-04-13": 10,
       "2022-04-09": 17,
       "2022-04-02": 22,
       "2022-04-01": 19,
@@ -44,9 +44,9 @@
     "slug": "pear-dev-site",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.74%",
     "time": 506,
     "timeDay": 2169,
@@ -54,7 +54,7 @@
     "timeMonth": 574,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-04-13": 15,
+      "2022-04-13": 10,
       "2021-11-10": 850,
       "2021-11-09": 134
     }
@@ -104,9 +104,9 @@
     "slug": "universalbb",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 278,
@@ -114,7 +114,7 @@
     "timeMonth": 340,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-13": 13,
+      "2022-04-13": 9,
       "2022-03-11": 30
     }
   },
@@ -125,9 +125,9 @@
     "slug": "concussionguy",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 345,
     "timeDay": 250,
@@ -135,7 +135,7 @@
     "timeMonth": 357,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-04-13": 3,
+      "2022-04-13": 9,
       "2022-01-14": 17
     }
   },
@@ -146,9 +146,9 @@
     "slug": "alamonote",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 719,
@@ -156,7 +156,7 @@
     "timeMonth": 685,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-04-13": 2
+      "2022-04-13": 8
     }
   },
   {
@@ -166,9 +166,9 @@
     "slug": "shirane",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 504,
     "timeDay": 1891,
@@ -176,7 +176,7 @@
     "timeMonth": 580,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-04-13": 2,
+      "2022-04-13": 8,
       "2022-03-11": 29
     }
   },
@@ -187,9 +187,9 @@
     "slug": "eharris",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.16%",
     "time": 857,
     "timeDay": 865,
@@ -197,7 +197,7 @@
     "timeMonth": 854,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2022-04-13": 2,
+      "2022-04-13": 8,
       "2022-02-04": 1249,
       "2022-02-03": 1440,
       "2022-02-02": 531,
@@ -211,9 +211,9 @@
     "slug": "bhrnew",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 414,
     "timeDay": 1183,
@@ -221,7 +221,7 @@
     "timeMonth": 445,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-04-13": 2,
+      "2022-04-13": 8,
       "2022-03-11": 29
     }
   },
@@ -252,9 +252,9 @@
     "slug": "beaconunited2",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.35%",
     "time": 474,
     "timeDay": 1339,
@@ -262,7 +262,7 @@
     "timeMonth": 551,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-04-13": 2,
+      "2022-04-13": 8,
       "2021-07-20": 1414,
       "2021-07-19": 1102
     }
@@ -312,9 +312,9 @@
     "slug": "firsttexan",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 325,
     "timeDay": 518,
@@ -322,7 +322,7 @@
     "timeMonth": 371,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2022-04-13": 1,
+      "2022-04-13": 7,
       "2022-03-11": 28
     }
   },
@@ -333,9 +333,9 @@
     "slug": "najim",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 4909,
     "timeDay": 5096,
@@ -343,7 +343,7 @@
     "timeMonth": 5104,
     "timeYear": 4909,
     "dailyMinutesDown": {
-      "2022-04-13": 1,
+      "2022-04-13": 7,
       "2022-03-11": 28
     }
   },
@@ -394,7 +394,7 @@
     "uptime": "88.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.25%",
+    "uptimeMonth": "48.26%",
     "uptimeYear": "88.40%",
     "time": 331,
     "timeDay": 411,
@@ -443,9 +443,9 @@
     "slug": "fascinationsp",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 381,
@@ -453,7 +453,7 @@
     "timeMonth": 409,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-04-13": 1
+      "2022-04-13": 7
     }
   },
   {
@@ -463,9 +463,9 @@
     "slug": "alamobuyers",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 395,
     "timeDay": 711,
@@ -473,7 +473,7 @@
     "timeMonth": 438,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-04-13": 1,
+      "2022-04-13": 7,
       "2022-03-11": 27
     }
   },
@@ -504,19 +504,19 @@
     "url": "https://riachueloranch.com",
     "icon": "https://favicons.githubusercontent.com/riachueloranch.com",
     "slug": "riachueloranch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 241,
-    "timeWeek": 398,
-    "timeMonth": 419,
-    "timeYear": 434,
+    "time": 444,
+    "timeDay": 1234,
+    "timeWeek": 626,
+    "timeMonth": 476,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2022-04-13": 1
+      "2022-04-13": 6
     }
   },
   {
@@ -524,19 +524,19 @@
     "url": "https://ignitecommunity.church",
     "icon": "https://favicons.githubusercontent.com/ignitecommunity.church",
     "slug": "ignitecc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 457,
-    "timeDay": 325,
-    "timeWeek": 440,
-    "timeMonth": 479,
-    "timeYear": 457,
+    "time": 464,
+    "timeDay": 1064,
+    "timeWeek": 610,
+    "timeMonth": 520,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2022-04-13": 1,
+      "2022-04-13": 6,
       "2022-03-11": 26
     }
   },
