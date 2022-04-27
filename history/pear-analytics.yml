@@ -1,7 +1,7 @@
 url: https://pearanalytics.com
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2022-04-26T23:00:47.359Z
+status: down
+code: 503
+responseTime: 347
+lastUpdated: 2022-04-27T07:11:11.984Z
 startTime: Wed Dec 08 2021 21:49:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
