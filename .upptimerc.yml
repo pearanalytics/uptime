@@ -111,15 +111,15 @@ sites:
     url: https://www.robinsonvalue.com
   - name: edgecombe
     url: https://edgecombe.com
-  - name: lesauce
-    url: https://lesaucecompany.com
+  # - name: lesauce
+  #   url: https://lesaucecompany.com
   # - name: beecleanold
   #   url: https://beecleanold.wpengine.com
-  - name: sacounselors
-    url: https://sacounselors.wpengine.com
+  - name: Texas Mental Health Network
+    url: https://texasmentalhealthnetwork.com/
   # - name: riptidewash
   #   url: https://riptideautowashes.com
-  - name: officefurnliq
+  - name: Office Furniture Liquidations
     url: https://www.officefurnituresa.com
   - name: espronceda
     url: https://alamodivorcelawyer.com
@@ -139,8 +139,8 @@ sites:
     url: https://xenex.com
   - name: Lumber Hardware
     url: https://lumberhardware.com
-  - name: Haven for Hope
-    url: https://www.havenforhope.org
+  # - name: Haven for Hope
+  #   url: https://www.havenforhope.org
   - name: Paramour Bar
     url: https://paramourbar.com
   # - name: nomaskspatriot
