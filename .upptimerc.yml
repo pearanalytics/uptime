@@ -41,12 +41,12 @@ sites:
     url: https://firsttexanrealty.com
   - name: najim
     url: https://najimfoundation.org
-  - name: contegoim
-    url: https://contegoim.com
-  - name: alamomineral
-    url: https://alamomineralbuyers.com
-  - name: alamohomebuyer
-    url: https://alamohomebuyers.com
+  # - name: contegoim
+  #   url: https://contegoim.com
+  # - name: alamomineral
+  #   url: https://alamomineralbuyers.com
+  # - name: alamohomebuyer
+  #   url: https://alamohomebuyers.com
   # - name: sanotebuyer
   #   url: https://sanotebuyer.wpengine.com
   # - name: sahomebuyer
