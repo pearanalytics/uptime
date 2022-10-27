@@ -1,7 +1,7 @@
 url: https://lumberhardware.com
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2022-10-26T23:07:45.536Z
+status: down
+code: 503
+responseTime: 236
+lastUpdated: 2022-10-27T07:26:00.856Z
 startTime: Wed Dec 08 2021 21:38:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
