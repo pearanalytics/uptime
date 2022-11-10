@@ -97,7 +97,7 @@
     "timeDay": 312,
     "timeWeek": 338,
     "timeMonth": 380,
-    "timeYear": 458,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2022-04-13": 21
     }
@@ -117,7 +117,7 @@
     "timeDay": 193,
     "timeWeek": 248,
     "timeMonth": 311,
-    "timeYear": 394,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2022-01-31": 19
     }
@@ -137,7 +137,7 @@
     "timeDay": 1028,
     "timeWeek": 766,
     "timeMonth": 700,
-    "timeYear": 712,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2022-09-17": 26,
       "2022-07-25": 22
@@ -158,7 +158,7 @@
     "timeDay": 174,
     "timeWeek": 227,
     "timeMonth": 270,
-    "timeYear": 314,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-09-22": 138,
       "2022-09-21": 1440,
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alamonote.wpengine.com.ico",
     "slug": "alamonote",
     "status": "down",
-    "uptime": "60.24%",
+    "uptime": "60.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.78%",
+    "uptimeYear": "47.77%",
     "time": 402,
     "timeDay": 41,
     "timeWeek": 73,
     "timeMonth": 80,
-    "timeYear": 394,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-11-10": 844,
+      "2022-11-10": 859,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -421,7 +421,7 @@
     "timeDay": 338,
     "timeWeek": 367,
     "timeMonth": 514,
-    "timeYear": 471,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2022-04-13": 19,
       "2022-03-11": 29
@@ -490,7 +490,7 @@
     "timeDay": 221,
     "timeWeek": 422,
     "timeMonth": 872,
-    "timeYear": 687,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2022-09-27": 25,
       "2022-06-16": 19,
@@ -513,7 +513,7 @@
     "timeDay": 181,
     "timeWeek": 380,
     "timeMonth": 626,
-    "timeYear": 781,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2022-11-01": 17,
       "2022-10-30": 49,
@@ -549,7 +549,7 @@
     "timeDay": 680,
     "timeWeek": 660,
     "timeMonth": 641,
-    "timeYear": 577,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -567,7 +567,7 @@
     "timeDay": 346,
     "timeWeek": 515,
     "timeMonth": 600,
-    "timeYear": 619,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2022-03-30": 34
     }
@@ -587,7 +587,7 @@
     "timeDay": 184,
     "timeWeek": 225,
     "timeMonth": 273,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-04-13": 18,
       "2022-03-11": 28
@@ -608,7 +608,7 @@
     "timeDay": 4804,
     "timeWeek": 4788,
     "timeMonth": 4669,
-    "timeYear": 4887,
+    "timeYear": 4889,
     "dailyMinutesDown": {
       "2022-10-16": 18,
       "2022-04-13": 18,
@@ -650,9 +650,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-11-10": 845,
+      "2022-11-10": 859,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -863,7 +863,7 @@
     "timeDay": 281,
     "timeWeek": 532,
     "timeMonth": 709,
-    "timeYear": 667,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2022-07-27": 18,
       "2022-07-22": 53,
@@ -908,7 +908,7 @@
     "timeDay": 45,
     "timeWeek": 254,
     "timeMonth": 475,
-    "timeYear": 457,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2022-08-29": 872,
       "2022-08-28": 1440,
@@ -939,7 +939,7 @@
     "timeDay": 223,
     "timeWeek": 257,
     "timeMonth": 637,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2022-10-28": 160,
       "2022-10-27": 5,
@@ -981,7 +981,7 @@
     "timeDay": 983,
     "timeWeek": 881,
     "timeMonth": 836,
-    "timeYear": 1283,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2022-10-13": 25,
       "2022-10-12": 17,
@@ -1006,7 +1006,7 @@
     "timeDay": 248,
     "timeWeek": 283,
     "timeMonth": 339,
-    "timeYear": 388,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2022-03-11": 26
     }
@@ -1109,7 +1109,7 @@
     "timeDay": 229,
     "timeWeek": 262,
     "timeMonth": 307,
-    "timeYear": 357,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "timeDay": 2217,
     "timeWeek": 920,
     "timeMonth": 1139,
-    "timeYear": 1170,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2022-10-16": 16,
       "2022-09-10": 59,
@@ -1235,7 +1235,7 @@
     "timeDay": 280,
     "timeWeek": 271,
     "timeMonth": 329,
-    "timeYear": 370,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -1255,7 +1255,7 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-11-10": 845,
+      "2022-11-10": 860,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
@@ -1429,19 +1429,19 @@
     "url": "https://paramourbar.com",
     "icon": "https://icons.duckduckgo.com/ip3/paramourbar.com.ico",
     "slug": "paramour-bar",
-    "status": "down",
+    "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "98.72%",
-    "time": 718,
-    "timeDay": 2169,
-    "timeWeek": 2172,
-    "timeMonth": 2367,
-    "timeYear": 718,
+    "time": 726,
+    "timeDay": 2594,
+    "timeWeek": 2278,
+    "timeMonth": 2396,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-11-10": 1,
+      "2022-11-10": 14,
       "2022-11-07": 42,
       "2022-11-03": 23,
       "2022-10-20": 32,
